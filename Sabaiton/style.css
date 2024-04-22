@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+.container{
+    padding: 13px;
+    width: 100%;
+    background-color: blanchedalmond;
+    display: flex;
+    position: relative;
+}
+.icons{
+    margin: 0px;
+    padding-left: 20px;
+}
+.country{
+    margin: 0px;
+    padding-right: 120px;
+    text-align: right;
+    font-family: sans-serif; 
+    font-size: 13px;
+    display: flex;
+}
+.text_in-icon{
+    text-align: center;
+}
+.coco{
+    size-adjust: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+    display: flex;
+    position: relative;
+}
+.coco img{
+
+    padding: 0%;
+    width: 220px;
+    display: flex;
+    position: relative; 
+}
+.ococ{
+    margin-left: 0;
+    margin-right: 100px;
+    padding-right: 0;
+}
+.coco input[placeholder]{
+    font-family: inherit;
+}
+.coco input[type=text]{
+    border: 1px solid #ffffff;
+}
+.subcoco{
+    display: flex;
+    position: relative;
+    width: auto;
+    margin-right: 36px;
+}
+
